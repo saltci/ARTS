@@ -13,10 +13,10 @@ async def count():
 	print(&quot;Two&quot;)
 
 async def main():
-	await asyncio.gather(cont(),count(),count())
+	await asyncio.gather(count(),count(),count())
 
 asyncio.run(main())
-</code></pre><p>上面的脚本中，再<code>async</code>函数<code>main</code>内，<code>asyncio.gather()</code>方法将多个异步任务包装成一个新的异步任务，必须等到内部的多个异步任务都执行结束，这个新的异步任务才会结束。</p><p>脚本运行结果:</p><pre><code class=language-python>$ python3 async.py
+</code></pre><p>上面的脚本中，在<code>async</code>函数<code>main</code>内，<code>asyncio.gather()</code>方法将多个异步任务包装成一个新的异步任务，必须等到内部的多个异步任务都执行结束，这个新的异步任务才会结束。</p><p>脚本运行结果:</p><pre><code class=language-python>$ python3 async.py
 One
 One
 One
