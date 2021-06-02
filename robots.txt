@@ -1,2 +1,3 @@
 User-agent: *
-Sitemap: http://arts.saltci.xyz/sitemap.xml
+Request-rate: 1/1
+Crawl-delay: 5
