@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ARTS</title>
@@ -6,56 +6,7 @@
     <description>Recent content in Posts on ARTS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 29 Jun 2020 09:58:19 +0800</lastBuildDate>
-    
-        <atom:link href="http://arts.saltci.xyz/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>算法(A)</title>
-      <link>http://arts.saltci.xyz/algorithm/</link>
-      <pubDate>Tue, 30 Jun 2020 17:15:52 +0800</pubDate>
-      
-      <guid>http://arts.saltci.xyz/algorithm/</guid>
-      <description>算法(Algoritm) 这里以清单的形式列出了我的ASTR打卡记录中的算法部分内容，所有的解题记录可以在我的代码仓库Leetcode中查看 week-0003:</description>
-    </item>
-    
-    <item>
-      <title>调研(R)</title>
-      <link>http://arts.saltci.xyz/review/</link>
-      <pubDate>Tue, 30 Jun 2020 17:15:52 +0800</pubDate>
-      
-      <guid>http://arts.saltci.xyz/review/</guid>
-      <description>调研(Review) week-0003 Git-based Wiki - BIT-101 week-0002 To Comment or Not to Comment? week-0001 The Google ‘vs’ Trick</description>
-    </item>
-    
-    <item>
-      <title>技巧(T)</title>
-      <link>http://arts.saltci.xyz/tip/</link>
-      <pubDate>Tue, 30 Jun 2020 17:15:52 +0800</pubDate>
-      
-      <guid>http://arts.saltci.xyz/tip/</guid>
-      <description>技巧(Tip) week-0003 在Python中使用MQTT week-0002 Requests 在并发场景下出现的问题 week-0001 Python 的异步模块 asyncio 的概念和基本用法</description>
-    </item>
-    
-    <item>
-      <title>分享(S)</title>
-      <link>http://arts.saltci.xyz/share/</link>
-      <pubDate>Tue, 30 Jun 2020 17:15:52 +0800</pubDate>
-      
-      <guid>http://arts.saltci.xyz/share/</guid>
-      <description>分享(Share) week-0003 anki常用插件推荐 week-0002 A Programmer&amp;rsquo;s Guide to English week-0001 分享一个背单词网站，从出现次数最多的单词开始背起</description>
-    </item>
-    
-    <item>
-      <title>关于</title>
-      <link>http://arts.saltci.xyz/about/</link>
-      <pubDate>Tue, 30 Jun 2020 17:15:52 +0800</pubDate>
-      
-      <guid>http://arts.saltci.xyz/about/</guid>
-      <description>关于本活动 这是极客时间《左耳听风》专栏 中发起的学习活动，要求自发每周完成一个ARTS。 Algorithm: 主要是为了编程训练和学习。 每周至少做一个 leetcode 的算法题（</description>
-    </item>
-    
+    <lastBuildDate>Mon, 29 Jun 2020 09:58:19 +0800</lastBuildDate><atom:link href="http://arts.saltci.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ARTS打卡第三周(2020年6月29日~7月5日)</title>
       <link>http://arts.saltci.xyz/post/arts_week3/</link>
